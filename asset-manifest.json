@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pos-deploy/static/css/main.abd64e84.css",
-    "main.js": "/pos-deploy/static/js/main.8279e3fc.js",
-    "index.html": "/pos-deploy/index.html",
-    "main.abd64e84.css.map": "/pos-deploy/static/css/main.abd64e84.css.map",
-    "main.8279e3fc.js.map": "/pos-deploy/static/js/main.8279e3fc.js.map"
+    "main.css": "/gitpages-deploy/static/css/main.abd64e84.css",
+    "main.js": "/gitpages-deploy/static/js/main.8279e3fc.js",
+    "index.html": "/gitpages-deploy/index.html",
+    "main.abd64e84.css.map": "/gitpages-deploy/static/css/main.abd64e84.css.map",
+    "main.8279e3fc.js.map": "/gitpages-deploy/static/js/main.8279e3fc.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
